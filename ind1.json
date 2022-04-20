@@ -1,0 +1,20 @@
+[
+    {
+        "surname": "Lazareva",
+        "name": "Daria",
+        "number": "1234",
+        "year": 2002
+    },
+    {
+        "surname": "Novikov",
+        "name": "Alex",
+        "number": "4567",
+        "year": 1990
+    },
+    {
+        "surname": "Ivanov",
+        "name": "Max",
+        "number": "3672",
+        "year": 1998
+    }
+]
